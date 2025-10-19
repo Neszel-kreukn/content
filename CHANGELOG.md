@@ -9,3 +9,5 @@ Generated documentation for content.
 # PR Merge: 2025-10-20 - enhancement/merge-1642
 
 # PR Merge: 2025-10-20 - enhancement/merge-2141
+
+# PR Merge: 2025-10-20 - docs/merge-6123
