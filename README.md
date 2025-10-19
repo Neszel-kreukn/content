@@ -21,3 +21,5 @@ no servers. no config files. single binary.
 inspired by rocksdb but simpler.
 
 [crates.io](https://crates.io/crates/atls-store) • apache-2.0
+
+# PR Merge: 2025-10-20 - feature/merge-8386
